@@ -8,9 +8,11 @@ document.  Be sure to put your work, that you want graded *not* in a comment
 -->
 
 <!-- TODO:
-include a 3 sentence summary of the most important points you want me to
+include a 3 word summary of the most important points you want me to
 remember from the following
 -->
+
+word | word | word
 
 ## Bio
 <!-- TODO:

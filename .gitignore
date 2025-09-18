@@ -1,2 +1,5 @@
 _build/
 *.ipynb_checkpoints/
+
+# MyST build outputs
+_build

@@ -57,7 +57,8 @@ I understand the right time to use each mode of communication
 
 ### Academic Honesty
 
-- it is okay to submit chatGPT code if the interpretation is my own
-- it is never okay to submit chatGPT code
+- it is okay to submit LLM code if the interpretation is my own
+- it is never okay to submit LLM code
+- all work must reflect my understanding and be accuract and not deprecated
 - the penalty for cheating is no credit on that assignment
 - the penalty for cheating is ineligible achievments, level depends on assignment or portfolio

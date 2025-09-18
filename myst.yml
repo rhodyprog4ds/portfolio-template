@@ -1,0 +1,19 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: ad8b1bb5-781a-4b16-8228-521e592dfe8d
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  # github: https://github.com/rhodyprog4ds/portfolio-template
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+  exclude:
+    - README.md
+    - requirements.txt
+    - .grades/**
+site:
+  template: book-theme
+  options:
+  #   favicon: favicon.ico
+    logo: logo.png

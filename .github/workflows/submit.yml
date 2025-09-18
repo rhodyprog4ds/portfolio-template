@@ -1,4 +1,4 @@
-name: Convert for grading (Grader will run)
+name: Convert for grading (TA/Instructor will run)
 on:
   workflow_dispatch
 
